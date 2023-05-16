@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# Build output
+build/
+
+# Environment files
+.env
+
+# Log files
+*.log
